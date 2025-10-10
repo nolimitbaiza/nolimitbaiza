@@ -1,6 +1,6 @@
 # Hi there, I'm Baizak 👋
 
-<a href="https://linkedin.com/in/baizakisaev" target="_blank">
+<a href="https://linkedin.com/in/baizakisaev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:buyduck322@gmail.com">
