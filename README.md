@@ -16,7 +16,7 @@ I am a passionate and driven student pursuing a degree in Computer Science at No
 * I’m currently working on enhancing my data analysis skills and building a full-stack web application.
 * I’m currently learning about deep learning frameworks like **PyTorch** and cloud platforms like **AWS**.
 * Outside of tech, I'm a huge Formula 1 and Football (Soccer) fan and enjoy analyzing race and match data to find performance patterns.
-* How to reach me: [buyduck322@gmail.com](mailto:baizakisaev@gmail.com)
+* How to reach me: [baizakisaev@gmail.com](mailto:baizakisaev@gmail.com)
 * Looking for: **Software Engineering, Data Science, or ML/AI Internships for Summer 2026**.
 
 ---
