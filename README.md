@@ -1,4 +1,4 @@
-# Hi there, I'm Baizak 👋
+# Hi, I'm Baizak
 
 <a href="https://linkedin.com/in/baizakisaev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a passionate and driven student pursuing a degree in Computer Science at North American University. I have a strong interest in building efficient software and leveraging data to create intelligent solutions. My goal is to apply my skills in **Software Engineering**, **Data Science**, and **Machine Learning** to solve real-world problems.
 
@@ -21,7 +21,7 @@ I am a passionate and driven student pursuing a degree in Computer Science at No
 
 ---
 
-### 💻 My Tech Stack
+### My Tech Stack
 
 Here are some of the technologies I've been working with recently:
 
