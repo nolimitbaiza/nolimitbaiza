@@ -1,29 +1,17 @@
-# Hi, I'm Baizak
-
 <a href="https://linkedin.com/in/baizakisaev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:buyduck322@gmail.com">
+<a href="mailto:baizakisaev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 ---
 
-### About Me
-
-I am a passionate and driven student pursuing a degree in Computer Science at North American University. I have a strong interest in building efficient software and leveraging data to create intelligent solutions. My goal is to apply my skills in **Software Engineering**, **Data Science**, and **Machine Learning** to solve real-world problems.
-
-* I’m currently working on enhancing my data analysis skills and building a full-stack web application.
-* I’m currently learning about deep learning frameworks like **PyTorch** and cloud platforms like **AWS**.
-* Outside of tech, I'm a huge Formula 1 and Football (Soccer) fan and enjoy analyzing race and match data to find performance patterns.
-* How to reach me: [baizakisaev@gmail.com](mailto:baizakisaev@gmail.com)
-* Looking for: **Software Engineering, Data Science, or ML/AI Internships for Summer 2026**.
+I know that I know nothing
 
 ---
 
 ### My Tech Stack
-
-Here are some of the technologies I've been working with recently:
 
 | Languages                                                                                                                              | Data Science & ML                                                                                                                                      | Databases                                                                                                                    | Tools & Platforms                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
