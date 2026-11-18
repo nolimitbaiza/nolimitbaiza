@@ -7,7 +7,7 @@ energy, battery storage and data-driven decisions.
 
 ## About me
 
-- Studying for a BS in Computer Science, expected May 2028
+- Studying for a BS in Computer Science, expected May 2027
 - Interested in energy markets, grid-scale batteries and practical data products
 - Open to projects and collaborations
 
