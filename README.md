@@ -25,13 +25,14 @@ California, Germany and South Australia. It weighs trading profit against batter
 
 [![AI Grid Trader trading view](https://raw.githubusercontent.com/nolimitbaiza/ai-grid-trader/main/assets/og.png)](https://baizakisaev.com/ai-grid-trader)
 
-### [Pitwall: F1 constructor tracker](https://github.com/nolimitbaiza/f1_constructor_performance_tracker)
+### [Pitwall: F1 Constructor Performance Tracker](https://github.com/nolimitbaiza/f1_constructor_performance_tracker)
 
 Every Formula 1 constructors' championship since 1958 in one dashboard: 12,700+ constructor race
 results for 175 teams across 68 seasons. A Python pipeline loads official results into PostgreSQL,
 an Express API serves them, and teams are compared across eras by their share of the points.
+Mercedes won 8 straight titles from 2014 to 2021 with 33% of all points, against 19.5% for Red Bull.
 
-**[Live dashboard](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)** · Python · PostgreSQL · Express · Chart.js
+**[Live dashboard](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)** · Python · Pandas · DuckDB · PostgreSQL · Express · Chart.js
 
 [![Pitwall constructor dashboard](https://raw.githubusercontent.com/nolimitbaiza/f1_constructor_performance_tracker/master/docs/dashboard.png)](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)
 
