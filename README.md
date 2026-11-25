@@ -3,13 +3,15 @@
 Computer science student at North American University in Houston, building software for renewable
 energy, battery storage and data-driven decisions.
 
-[Website](https://baizakisaev.com) · [LinkedIn](https://www.linkedin.com/in/baizakisaev/) · [Email](mailto:baizak@baizakisaev.com)
+**Looking for a summer 2027 internship in energy software.**
+
+[Website](https://baizakisaev.com) · [Résumé](https://baizakisaev.com/assets/Baizak-Isaev-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/baizakisaev/) · [Email](mailto:baizak@baizakisaev.com)
 
 ## About me
 
 - Studying for a BS in Computer Science, expected May 2027
 - Interested in energy markets, grid-scale batteries and practical data products
-- Open to projects and collaborations
+- Looking for a summer 2027 internship; open to projects and collaborations
 
 ## Featured projects
 
@@ -19,18 +21,24 @@ A browser-based simulator of AI-driven battery trading on real 2025 electricity 
 California, Germany and South Australia. It weighs trading profit against battery wear, captures
 93–95% of the perfect-hindsight maximum, and models the project economics over 15 years.
 
-**[Live demo](https://baizakisaev.com/ai-grid-trader)** · JavaScript · Python · Plotly · Playwright · Docker
+**[Live demo](https://baizakisaev.com/ai-grid-trader)** · [Case study](https://baizakisaev.com/ai-grid-trader-case-study) · JavaScript · Python · Plotly · Playwright · Docker
 
 [![AI Grid Trader trading view](https://raw.githubusercontent.com/nolimitbaiza/ai-grid-trader/main/assets/og.png)](https://baizakisaev.com/ai-grid-trader)
 
-### [F1 Constructor Performance Tracker](https://github.com/nolimitbaiza/f1_constructor_performance_tracker)
+### [Pitwall: F1 constructor tracker](https://github.com/nolimitbaiza/f1_constructor_performance_tracker)
 
-An end-to-end analytics pipeline and interactive dashboard covering 12,700+ constructor race results
-for 175 Formula 1 teams across 68 seasons.
+Every Formula 1 constructors' championship since 1958 in one dashboard: 12,700+ constructor race
+results for 175 teams across 68 seasons. A Python pipeline loads official results into PostgreSQL,
+an Express API serves them, and teams are compared across eras by their share of the points.
 
-**[Live dashboard](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)** · Python · Pandas · DuckDB · SQL · Chart.js
+**[Live dashboard](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)** · Python · PostgreSQL · Express · Chart.js
 
-[![F1 Constructor Performance Tracker dashboard](https://raw.githubusercontent.com/nolimitbaiza/f1_constructor_performance_tracker/master/docs/dashboard.png)](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)
+[![Pitwall constructor dashboard](https://raw.githubusercontent.com/nolimitbaiza/f1_constructor_performance_tracker/master/docs/dashboard.png)](https://nolimitbaiza.github.io/f1_constructor_performance_tracker/)
+
+## Writing
+
+- [What battery wear really costs a trading bot](https://baizakisaev.com/battery-wear-cost)
+- [Perfect hindsight: the benchmark that keeps a trading bot honest](https://baizakisaev.com/perfect-hindsight-benchmark)
 
 ## Skills
 
